@@ -12,3 +12,10 @@ A responsive personal portfolio website developed for my Cognevance Technologies
 - Mobile-friendly layout.
 ## Live Demo
 https://lalainahmed.github.io/cognevance_Personal_Portfolio_Website/
+## Project Screenshots
+
+**Desktop View:**
+![Desktop View](Laptop%20Screenshot.PNG)
+
+**Mobile View:**
+![Mobile View](Phone%20Screenshot.jpeg)
